@@ -14,16 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+<img src=https://github.com/sachincool/sachincool/raw/output/github-contribution-grid-snake.svg alt="Contrib Snake" />
 
-![](https://github.com/sachincool/sachincool/raw/output/github-contribution-grid-snake.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true)
 
-<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" align=right />
+<img src="https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true" />
 
-![](http://github-readme-streak-stats.herokuapp.com?user=sachincool&theme=nightowl)
+
+<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" style="vertical-align:middle;margin:0px 50px" />
+
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sachincool&theme=nightowl" style="vertical-align:middle;margin:0px 50px"/>
 <br/>  
 
+</div>
 ## Connect with me  
 <div align="center">
 
