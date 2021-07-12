@@ -19,27 +19,32 @@ Here are some ideas to get you started:
   </div>
   
   
-### <div align="center">I'm Harshit, an Infrastructure Magician 👨‍💻 I fiddle with technology for fun and profits 🚀</div>  
-  
-- 🔭 I enjoy networking with VPN's and deleting random pods from my k8s cluster (non-sts only)
+### <div align="center">I'm Harshit, an Infrastructure Magician 👨‍💻 I fiddle with technology for fun and profits 🚀  </div>  
 
-- 🌱 I’m currently in a CrashLoopBackOff
+<div align="center">
+                  
+                  
+  <i>🔭 I enjoy networking with VPN's and deleting random pods from my k8s cluster (non-sts only) </i>
 
-- ❓ Ask me about anything related to Web-Security, K8s, Networking, Linux, SRE,
+   <i>🌱 I’m currently in a CrashLoopBackOff </i>
 
-- ⚡ Fun fact: I use vim over emacs
+  <i> ❓ Ask me about anything related to Web-Security, K8s, Networking, Linux, SRE </i>
+
+  <i> ⚡ Fun fact: I use vim over emacs </i>
+  </div>
+
 </br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true"/>
 
+</br>
+<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" style="vertical-align:middle;margin:50px 0px" />
 
-<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" style="vertical-align:middle;margin:0px 50px" />
-
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sachincool&theme=nightowl" style="vertical-align:middle;margin:0px 50px"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sachincool&theme=nightowl"/>
 <br/>  
 
 </div>
+
 ## Connect with me  
 <div align="center">
 
