@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true)
-
 ![](https://github.com/sachincool/sachincool/raw/output/github-contribution-grid-snake.svg)
 
+![](https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true)
+
+<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" align=centre />
+
+![](http://github-readme-streak-stats.herokuapp.com?user=sachincool&theme=nightowl)
 <br/>  
 
 ## Connect with me  
