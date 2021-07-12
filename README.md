@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true)
 
-<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" align=centre />
+<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" align=right />
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=sachincool&theme=nightowl)
 <br/>  
