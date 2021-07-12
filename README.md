@@ -17,18 +17,18 @@ Here are some ideas to get you started:
   
 <img src=https://github.com/sachincool/sachincool/raw/output/github-contribution-grid-snake.svg alt="Contrib Snake" />
   </div>
-I'm Harshit, an Infrastructure Magician 
   
-  👨‍💻 I fiddle with technology for fun and profits 🚀
   
-🔭 I enjoy networking with VPN's and deleting random pods from my k8s cluster (non-sts only)
+### <div align="center">I'm Harshit, an Infrastructure Magician 👨‍💻 I fiddle with technology for fun and profits 🚀</div>  
+  
+- 🔭 I enjoy networking with VPN's and deleting random pods from my k8s cluster (non-sts only)
 
-🌱 I’m currently in a CrashLoopBackOff
+- 🌱 I’m currently in a CrashLoopBackOff
 
-❓ Ask me about anything related to Web-Security, K8s, Networking, Linux, SRE,
+- ❓ Ask me about anything related to Web-Security, K8s, Networking, Linux, SRE,
 
-⚡ Fun fact: I use tabs over spaces
-
+- ⚡ Fun fact: I use vim over emacs
+</br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sachincool&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true" />
 
