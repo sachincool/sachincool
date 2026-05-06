@@ -17,6 +17,11 @@ Here are some ideas to get you started:
   
 <img src=https://github.com/sachincool/sachincool/raw/output/github-contribution-grid-snake.svg alt="Contrib Snake" />
   </div>
+
+<div align="center">
+  
+<img src=https://github.com/sachincool/sachincool/raw/master/game.gif alt="Space Shooter" />
+  </div>
   
   
 ### <div align="center">I'm Harshit, an Infrastructure Magician 👨‍💻 I fiddle with technology for fun and profits 🚀  </div>  
