@@ -2,8 +2,13 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 */24 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+    - master
 
 permissions:
   contents: write
